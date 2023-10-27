@@ -47,5 +47,3 @@ if st.button("Calculate"):
 
 if result is not None:
     st.success(f"Result: {result}")
-streamlit_calculator.py
-Menampilkan streamlit_calculator.py.
