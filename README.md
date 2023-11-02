@@ -1,37 +1,23 @@
-# tugas-praktikum
-
-* [Function](https://github.com/yeloranran/dasarpemrograman/blob/0016e8fc92051be82ff99e8118c066957c12a2e7/fungtion.ipynb)
-
-   [Knowledge Test Calculator](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Fungtion_calculator.ipynb)
-
-   [Knowledge Test Temperature](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Fungtion_celsius%20fahrenheit.ipynb)
-
-#
-* [Loop](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/looping.ipynb)
-
 #
 * Data Structure
     
-   [Dictionary](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Dictionary.ipynb)
-    
-   [List](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_List.ipynb)
-   
-   [Sets](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Sets.ipynb)
+   [Data Structure1](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/DATA_STRUCTURES.ipynb)
+   [Data Structure1](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/DATA_STRUCTURES_IN_PYTHON.ipynb)
 
-   [Tuple](https://github.com/yeloranran/dasarpemrograman/blob/452cc2e5091a7b62d1467ce2244840eb10de6afb/Data%20Structure_Tuple.ipynb)
+#
+* Tugas Knowledge
+  [Knowledge1](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/KNOWLEDGE%201.py)
+  [Knowledge2](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/KNOWLEDGE%202.py)
+    
+#   
+* [function](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/function.ipynb)
+* [looping](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/looping.ipynb)
 
 #
 * Modular
-    
-   [Calculator 2](https://github.com/yeloranran/dasarpemrograman/blob/7effca08e65f5b855ef52e4d38fb947b49289734/calculator2_app.py)
-   
-   [Math operation](https://github.com/yeloranran/dasarpemrograman/blob/7effca08e65f5b855ef52e4d38fb947b49289734/math_operation.py)
-
-   [Exercise](https://github.com/yeloranran/dasarpemrograman/blob/405b0796fcbdc321bc4bca1133dd2f31913d5e93/exercise.py)
-
-   [Helloworld](https://github.com/yeloranran/dasarpemrograman/blob/405b0796fcbdc321bc4bca1133dd2f31913d5e93/helloWorld.py)
-
-   #    
+  [kalkulator1](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/kalkulator1_app.py)
+  [kalkulator2](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/kalkulator2_app.py)
+  [math_op](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/math_operations.py)
 
 * [Streamlit](https://dasarpemrograman-e8dazmfvumb3jasr7xxuap.streamlit.app/)
 
