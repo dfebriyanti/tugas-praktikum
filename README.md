@@ -19,5 +19,6 @@
   [kalkulator2](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/kalkulator2_app.py)
   [math_op](https://github.com/dfebriyanti/tugas-praktikum/blob/8a37cd52b3a5e35facd3b02ad56d5a0a02208cda/math_operations.py)
 
-* [Streamlit](https://dasarpemrograman-e8dazmfvumb3jasr7xxuap.streamlit.app/)
+* [Streamlit](https://kalkulator1-7bhu79trjw8mfmed8jmrom.streamlit.app/)
+* [streamlit](https://kalkulator2-8ekcj9afkxng9u9qthl99e.streamlit.app/)
 
